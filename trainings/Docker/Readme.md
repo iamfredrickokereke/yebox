@@ -1,1 +1,1 @@
-## This repo contains resource used for docker training sessions
+## This directory contains resource used for docker training sessions at yebox technologies
