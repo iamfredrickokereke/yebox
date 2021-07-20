@@ -7,7 +7,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("Welcome to Yebox Devops Training Program");
+  res.send(" <h2> Welcome to Yebox Devops Training Program </h2>");
 });
 
 port = process.env.PORT || 3000;
